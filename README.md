@@ -2,7 +2,7 @@
 
 ## [BACKEND CODE] Frequency Adjustment API
 [Frequency Adjustment API GitHub](https://github.com/JF211859/frequenceaseapi)  
-Note: Our app is currently iOS-only as the backend is not compatible with Android.
+Note: Our app is currently iOS-only as the backend is not compatible with Android. The original backend server was shut down after our final presentation in December 2023 to avoid charges for API calls, and I forked the project in January 2024.
 
 ## Note for Testing the App
 * The first file upload for the "Import File" button will have an "Unhandled Promise Rejection" warning, but just ignore it and re-upload the file
